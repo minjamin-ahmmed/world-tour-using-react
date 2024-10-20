@@ -1,0 +1,11 @@
+.country{
+    margin: 20px;
+    border: 3px solid steelblue;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.visited{
+    background: rgba(70, 131, 180, 0.574);
+    
+}
